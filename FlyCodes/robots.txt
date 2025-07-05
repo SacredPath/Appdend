@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Allow: /sitemap.xml
+Allow: /css/
+Allow: /js/
+Allow: /img/
+
+# Disallow admin and system files
+Disallow: /admin/
+Disallow: /includes/
+Disallow: /config/
+Disallow: /process_form.php
+Disallow: /error_log
+Disallow: /.htaccess
+Disallow: /.env
+
+# Crawl-delay
+Crawl-delay: 10
+
+# Sitemap
+Sitemap: https://flycodes.com/sitemap.xml 
