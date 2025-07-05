@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="400" fill="#f8f9fa" rx="10" ry="10"/>
+  
+  <!-- Header -->
+  <rect x="20" y="20" width="560" height="60" fill="#4a89dc" rx="5" ry="5"/>
+  <circle cx="50" cy="50" r="15" fill="white"/>
+  <rect x="80" y="40" width="100" height="20" fill="white" rx="3" ry="3"/>
+  <rect x="400" y="40" width="40" height="20" fill="white" rx="3" ry="3"/>
+  <rect x="450" y="40" width="40" height="20" fill="white" rx="3" ry="3"/>
+  <rect x="500" y="40" width="40" height="20" fill="white" rx="3" ry="3"/>
+  
+  <!-- Hero section -->
+  <rect x="20" y="100" width="560" height="150" fill="#e8eaf6" rx="5" ry="5"/>
+  <rect x="50" y="130" width="200" height="30" fill="#4a89dc" rx="3" ry="3"/>
+  <rect x="50" y="170" width="300" height="15" fill="#b0bec5" rx="3" ry="3"/>
+  <rect x="50" y="195" width="300" height="15" fill="#b0bec5" rx="3" ry="3"/>
+  <rect x="50" y="220" width="120" height="30" fill="#4a89dc" rx="5" ry="5"/>
+  
+  <!-- Content section -->
+  <rect x="20" y="270" width="270" height="110" fill="white" rx="5" ry="5" stroke="#e0e0e0" stroke-width="1"/>
+  <rect x="310" y="270" width="270" height="110" fill="white" rx="5" ry="5" stroke="#e0e0e0" stroke-width="1"/>
+  <rect x="40" y="290" width="70" height="70" fill="#e8eaf6" rx="5" ry="5"/>
+  <rect x="330" y="290" width="70" height="70" fill="#e8eaf6" rx="5" ry="5"/>
+  <rect x="120" y="290" width="150" height="15" fill="#424242" rx="3" ry="3"/>
+  <rect x="410" y="290" width="150" height="15" fill="#424242" rx="3" ry="3"/>
+  <rect x="120" y="315" width="150" height="45" fill="#b0bec5" rx="3" ry="3"/>
+  <rect x="410" y="315" width="150" height="45" fill="#b0bec5" rx="3" ry="3"/>
+  
+  <!-- Text label -->
+  <text x="300" y="385" font-family="Arial" font-size="16" fill="#424242" text-anchor="middle">Business Website Template</text>
+</svg>
